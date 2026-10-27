@@ -1,0 +1,11 @@
+workload,metric,mean_diff_aging_minus_srtf,ci95_low,ci95_high,seeds_aging_lower,seeds_aging_higher
+Synthetic-Mixed,avg_waiting,0.717,0.3327,1.2523,0,27
+Synthetic-Mixed,p99_waiting,-13.0333,-23.1333,-3.2667,20,4
+Synthetic-Mixed,max_waiting,-39.2,-55.9667,-24.0667,23,0
+Synthetic-Mixed,jain_fairness,-0.0055,-0.0268,0.0153,14,13
+Synthetic-Mixed,context_switches,-5.3667,-6.9667,-3.8333,27,0
+Trace-Like-HeavyTail,avg_waiting,4.5748,1.6112,8.6387,0,30
+Trace-Like-HeavyTail,p99_waiting,-48.2,-100.5333,-12.4667,22,5
+Trace-Like-HeavyTail,max_waiting,-77.7,-117.3333,-43.3333,24,0
+Trace-Like-HeavyTail,jain_fairness,-0.1899,-0.2633,-0.1224,28,2
+Trace-Like-HeavyTail,context_switches,-13.3667,-18.0667,-9.3,30,0
